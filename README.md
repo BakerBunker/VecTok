@@ -1,12 +1,12 @@
 # Vec-Tok Speech
-This is the official code implementation of paper Vec-Tok Speech: Speech Vectorization and Tokenization for Neural Speech Generation
+This is the official code implementation of paper [Vec-Tok Speech: Speech Vectorization and Tokenization for Neural Speech Generation](https://arxiv.org/abs/2310.07246)
 
 This project was started as a internal experiment, so the most part of code was depend on internal toolchains and dataset. We are working hard on orgnizing and clean the code, and we will release the cleaned part step by step. 
 
 We are also looking for community efforts and resources to reimplement this framework with open-source data and toolchain.
 
 [[Demo Page](https://vectokdemo.github.io/VecTok/)]
-[Paper]
+[[Paper](https://arxiv.org/abs/2310.07246)]
 
 ## Overview
 
@@ -42,4 +42,11 @@ Release pretrained checkpoint of
 
 ## Citation
 
-TODO
+```bibtex
+@article{vectokspeech,
+    author={Xinfa Zhu and Yuanjun Lv and Yi Lei and Tao Li and Wendi He and Hongbin Zhou and Lei Xie},
+    title={Vec-Tok Speech: Speech Vectorization and Tokenization for Neural Speech Generation},
+    year={2023},
+    journal={arXiv preprint arXiv:2310.07246},
+}
+```
